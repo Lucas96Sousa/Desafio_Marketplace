@@ -1,0 +1,6 @@
+module Pods_GoMarketplace_GoMarketplaceTests {
+  umbrella header "Pods-GoMarketplace-GoMarketplaceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

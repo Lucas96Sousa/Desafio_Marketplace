@@ -1,0 +1,6 @@
+module Pods_GoMarketplace {
+  umbrella header "Pods-GoMarketplace-umbrella.h"
+
+  export *
+  module * { export * }
+}
